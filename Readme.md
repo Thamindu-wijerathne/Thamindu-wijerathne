@@ -20,10 +20,10 @@
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prvnX&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thamindu-wijerathne&show_icons=true&theme=radical" alt="Your GitHub Stats" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prvnX&layout=compact&theme=radical" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamindu-wijerathne&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <!-- Contact -->
