@@ -34,5 +34,5 @@
 <a href="https://instagram.com/https://www.instagram.com/_.thamiya._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.thamiya._/" height="30" width="40" /></a>
 
 <p align="center">
-  <em>Mail Me : <a href="mailto:Thamindu12ku@gmail.com">Thamindu12ku@gmail.com</a></em>
+  <em>Mail Me : <a href="mailto:Thamindu12ku@gmail.com">thamindu12ku@gmail.com</a></em>
 </p>
