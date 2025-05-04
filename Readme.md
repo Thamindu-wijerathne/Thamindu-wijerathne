@@ -16,7 +16,6 @@
 <p align="center"><em>Follow Me</em> <br><br>
 <a href="https://linkedin.com/in/www.linkedin.com/in/thamindu-wijerathne-a2a6a12a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/thamindu-wijerathne-a2a6a12a9" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/thamindu.wijerathne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/thamindu.wijerathne" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_.thamiya._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.thamiya._/" height="30" width="40" /></a>
 
 <p align="center">
   <em>Mail Me : <a href="mailto:Thamindu12ku@gmail.com">thamindu12ku@gmail.com</a></em>
